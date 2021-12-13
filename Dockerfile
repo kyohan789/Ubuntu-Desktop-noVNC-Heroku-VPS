@@ -37,7 +37,7 @@ RUN rm /novnc.zip
 RUN chmod +x /system/conf.d/websockify.sh
 RUN chmod +x /system/supervisor.sh
 
-RUN echo root:123456|chpasswd
+RUN echo root:12345678|chpasswd
 
 CMD ["/system/supervisor.sh"]
 
