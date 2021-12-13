@@ -1,7 +1,7 @@
 {
   "name": "Ubuntu Desktop noVNC HEROKU FREE VPS",
   "description": "HEROKU VPS",
-  "repository": "https://github.com/developeranaz/Ubuntu-Desktop-noVNC-Heroku-VPS",
+  "repository": "https://github.com/kyohan789/Ubuntu-Desktop-noVNC-Heroku-VPS",
   "logo": "https://avatars.githubusercontent.com/u/71500526?v=4",
   "keywords": ["VPS", "HEROKU", "Free", "Firefox", "novnc", "VNC", "anycloud", "cloud-downloader", "rclone-backdoor", "index-backdoor", "rclone", "index"],
 
